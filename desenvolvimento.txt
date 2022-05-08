@@ -1,0 +1,38 @@
+//Início
+- Receba o cliente com boas vindas
+- Receba o nome do cliente
+- Informar para o cliente fazer cadastro
+
+//Cadastro
+- Criar um objeto que irá conter uma propriedade nome e também uma propriedade
+senha
+
+LOGIN
+- Receber o nome de usuário
+- Receber a senha
+Receber o cliente com um bem-vindo
+
+CARDAPIO
+- Mostrar um cardápio de lanches com as seguintes opções
+Big Bacon
+Small Chease
+Big Chease
+- Receber o pedido do lanche
+
+- Mostrar um cardápio de bebidas com as seguintes opções:
+Coca 120ml
+Kuat 120ml
+Morango Refri 120ml
+- Receber o pedido das bebidas
+
+//Finalizando informar ao sistema qual foi o pedido e também onde entregar
+- Cidade
+- Bairro
+- Rua
+- Número da casa
+
+- Crie um html 
+- Crie um CSS
+- Crie um script contendo duas variáveis
+- Exiba no HTML o pedido
+
